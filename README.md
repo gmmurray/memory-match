@@ -8,7 +8,7 @@ A simple memory matching game, similar to the card based games we all played as 
 
 ## Live Link
 
-The app can be access via my website at [this url](https://gregmurray.org/memory-match)
+The app can be accessed via my website at [this url](https://gregmurray.org/memory-match)
 
 ## Technologies Used
 
