@@ -1,6 +1,6 @@
 {
     "name": "memory-match",
-    "homepage": "https://gregmurray.org/memory-match",
+    "homepage": ".",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
