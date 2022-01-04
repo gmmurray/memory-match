@@ -84,7 +84,7 @@ function App() {
             } else if (!secondActiveItem) {
                 setSecondActiveItem({ id, value });
                 setMoves(state => state + 1);
-                setTimeout(() => resetActiveItems(), 1000);
+                //setTimeout(() => resetActiveItems(), 1000);
             } else {
                 resetActiveItems();
             }
